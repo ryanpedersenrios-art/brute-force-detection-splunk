@@ -29,12 +29,19 @@ Visualization highlights abnormal behavior patterns
 
 📸 Screenshots
 🔹 Network Configuration
+
 🔹 Windows Security Logs (EventCode 4625)
+
 🔹 Exporting Logs
+
 🔹 Uploading to Splunk
+
 🔹 Log Ingestion Confirmation
+
 🔹 Query Results
+
 🔹 Detection Threshold
+
 🔹 Visualization
 
 🧠 Challenges & Troubleshooting
